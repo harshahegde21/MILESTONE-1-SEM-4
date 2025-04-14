@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+Run these commands
+npm install
+npm install bootstrap react-bootstrap
+npm install react-router-dom
+npm install react-icons
+npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
